@@ -1,0 +1,9 @@
+.carousel-item img{
+    -moz-transform: scale(0.6) translate(0px, 50px);
+-webkit-transform: scale(0.6) translate(0px, 50px);
+-o-transform: scale(0.6) translate(0px, 50px);
+-ms-transform: scale(0.6) translate(0px, 50px);
+transform: scale(0.6) translate(0px, 50px);
+    border: 16px solid transparent;
+border-radius: 40px;
+}
